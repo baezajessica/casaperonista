@@ -1,0 +1,37 @@
+/* Archivo css */
+body {
+    font-family: Arial, sans-serif;
+    color: #333;
+}
+
+h1 {
+    color: #0d2845;
+    font-size: 45px;
+    text-align: center;
+}
+
+div {
+    background-color: green;
+}
+
+p {
+    font-size: 16px;
+    line-height: 1.5;
+}
+
+/* Colores */
+header, footer {
+    background-color: #1394eb;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+}
+
+ul {
+    list-style-type: none;
+    padding-left: 20px;
+}
+
+li {
+    color: #f27f37;
+}
